@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/gh/lepsistemas/simple-openai-client/graph/badge.svg?token=MEZDURJ5ND)](https://codecov.io/gh/lepsistemas/simple-openai-client)
+
 # Simple OpenAI Client
 
 A simple Java library for seamless integration of your Java applications with OpenAI API.
